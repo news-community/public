@@ -1,10 +1,14 @@
 # News Community
 
-Building decentralized, transparent community newsrooms where AI handles the structural work and humans bring the judgment.
+**A platform for community newsrooms in places legacy media left behind.**
 
-The platform is live at **[alaskanews.news](https://alaskanews.news)**.
+*Honest. Local. Now.*
 
-This repo is the public-facing surface for the project. The platform code itself is private, but stars, general issues, feature requests, and contributions to any open-sourced pieces all land here.
+The first newsroom is live at **[alaskanews.news](https://alaskanews.news)**. The platform behind it — and the parent surface for newsrooms in the places legacy media has abandoned — is **[communities.news](https://communities.news)**.
+
+Humans and AI agents alike welcome. This repo is the public-facing surface for the project. The platform code itself is private, but stars, general issues, feature requests, and contributions to any open-sourced pieces all land here.
+
+If you support what we're building, [give the repo a star](https://github.com/news-community/public/stargazers) — it's the simplest signal that this kind of journalism matters.
 
 ## What is News Community
 
@@ -13,6 +17,14 @@ Over 1,800 counties in America have zero local news. Public meetings happen, dec
 News Community is a different cost structure. LLMs do the structural work that used to need a reporter at every meeting (transcribing audio, surfacing patterns, drafting against a verified evidence pool). A small editorial team, supplemented by community contributors, does the judgment work. The result is more coverage of more meetings, with the same standards of accuracy and attribution as legacy journalism, at a cost that actually closes for towns that legacy media abandoned.
 
 Live in Alaska today. Designed to expand to any community that wants it.
+
+## Principles
+
+- **Transparency** — every article shows its source recordings, evidence pool, and edit history. The work is auditable end-to-end.
+- **Accuracy** — AI drafts; humans verify. Every claim traces back to source. No hallucinated facts, no anonymous-sourced narrative shortcuts.
+- **Accessibility** — no paywall, no signup required to read. Ever.
+
+[More about the project →](https://communities.news/about)
 
 ## How to participate
 
@@ -36,38 +48,38 @@ Reader credits flow directly to the journalists whose work you value. No subscri
 
 Sign up at [alaskanews.news/signup](https://alaskanews.news/signup) and click any author's photo to send credits.
 
+### Bring News Community to your community
+
+If you live somewhere legacy media has abandoned and you want a newsroom there too, that's the long-term direction of the project. Alaska is the first; others can follow.
+
+[**For your community**](https://communities.news/for-your-community)
+
 ## Issues, feedback, feature requests
 
 If you find a bug, have a feature idea, or want to flag something about the platform: [**open an issue here**](https://github.com/news-community/public/issues/new).
 
-This is the public-facing repo for project-level feedback. Code-specific issues from internal collaborators go to the private platform repo; everything else lands here.
+This is the public-facing repo for project-level feedback. All bug reports, feature requests, and general project discussion belong here.
 
 ## Following the project
 
-- **[News Community newsroom](https://alaskanews.news)** — the platform itself
-- **[About the project](https://alaskanews.news/about)** — vision, principles, who we are
-- **[How it works](https://alaskanews.news/how-it-works)** — what happens between a meeting and an article
+- **[communities.news](https://communities.news)** — the platform behind the newsrooms
+- **[alaskanews.news](https://alaskanews.news)** — the first newsroom, live today
+- **[About the project](https://communities.news/about)** — vision, principles, who we are
+- **[How it works](https://communities.news/how-it-works)** — what happens between a meeting and an article
 
-## Repo structure
+## Open source
 
-The News Community project spans four GitHub repos:
+The platform code itself is closed-source today. This public repo is where any pieces extracted as open-source would land — that's deferred for now, but on the roadmap as the project matures.
 
-| Repo | Visibility | Purpose |
-|------|------------|---------|
-| [`news-community/news-community`](https://github.com/news-community/news-community) | private | Umbrella repo, ties the components together via git submodules |
-| [`news-community/platform`](https://github.com/news-community/platform) | private | The platform code (Next.js + Supabase + Effect web app, pipeline worker, Electron compute-volunteer app) |
-| [`news-community/openclaw`](https://github.com/news-community/openclaw) | private | An agent built for the project (TBD) |
-| `news-community/public` (this repo) | **public** | Public-facing surface: stars, general issues, any open-sourced pieces extracted from the platform |
-
-The platform code itself is closed-source today. Some pieces may be extracted to this repo as open-source down the road; that's deferred for now.
+In the meantime, this repo is the public-facing surface: stars, issues, feature requests, and project-level discussion.
 
 ## Contact
 
 - **Apply as a journalist:** [alaskanews.news/journalist](https://alaskanews.news/journalist)
 - **Apply as a compute volunteer:** [alaskanews.news/worker/apply](https://alaskanews.news/worker/apply)
-- **General contact:** [alaskanews.news/contact](https://alaskanews.news/contact)
+- **General contact:** [communities.news/contact](https://communities.news/contact)
 
-Built by [Geeks in the Woods](https://geeksinthewoods.com) in Anchorage, Alaska. Humans and AI agents alike welcome.
+Community News LLC, built by [Geeks in the Woods](https://geeksinthewoods.com) in Anchorage, Alaska.
 
 ## License
 
