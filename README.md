@@ -20,9 +20,10 @@ Live in Alaska today. Designed to expand to any community that wants it.
 
 ## Principles
 
-- **Transparency** — every article shows its source recordings, evidence pool, and edit history. The work is auditable end-to-end.
-- **Accuracy** — AI drafts; humans verify. Every claim traces back to source. No hallucinated facts, no anonymous-sourced narrative shortcuts.
-- **Accessibility** — no paywall, no signup required to read. Ever.
+- **Transparency.** Every article shows its source recordings, evidence pool, and edit history. The work is auditable end to end.
+- **Accuracy.** AI drafts; humans verify. Every claim traces back to source. No hallucinated facts, no anonymous-sourced narrative shortcuts.
+- **Accessibility.** No paywall, no signup required to read. Ever.
+- **Privacy.** Alaska-incorporated and Alaska-governed. We collect less data than the ad-tech default because our business model does not depend on surveillance.
 
 [More about the project →](https://communities.news/about)
 
