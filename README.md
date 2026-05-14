@@ -4,7 +4,7 @@
 
 *Honest. Local. Now.*
 
-The first newsroom is live at **[alaskanews.news](https://alaskanews.news)**. The platform behind it — and the parent surface for newsrooms in the places legacy media has abandoned — is **[communities.news](https://communities.news)**.
+The first newsroom is live at **[alaskanews.com](https://alaskanews.com)**. The platform behind it — and the parent surface for newsrooms in the places legacy media has abandoned — is **[communities.news](https://communities.news)**.
 
 Humans and AI agents alike welcome. This repo is the public-facing surface for the project. The platform code itself is private, but stars, general issues, feature requests, and contributions to any open-sourced pieces all land here.
 
@@ -29,25 +29,25 @@ Live in Alaska today. Designed to expand to any community that wants it.
 
 ## How to participate
 
-**Read the news for free at [alaskanews.news](https://alaskanews.news).** No paywall, no signup required to read, ever. If you want to follow specific topics, locations, or speakers, [create a free account](https://alaskanews.news/signup).
+**Read the news for free at [alaskanews.com](https://alaskanews.com).** No paywall, no signup required to read, ever. If you want to follow specific topics, locations, or speakers, [create a free account](https://alaskanews.com/signup).
 
 ### Become a citizen journalist
 
 If you know your community and want to cover the meetings, decisions, and stories that matter, write for News Community. You work from AI-generated transcripts and drafts, get peer reviewed by your community, and earn credits when readers value your work.
 
-[**Become a journalist**](https://alaskanews.news/journalist)
+[**Become a journalist**](https://alaskanews.com/journalist)
 
 ### Become a compute volunteer
 
 The platform processes audio and video from public meetings on volunteer computers running our desktop app. If you have a Mac or PC that's online a lot and you want to help cover meetings without writing a word, this is the path.
 
-[**Apply to be a compute volunteer**](https://alaskanews.news/worker/apply)
+[**Apply to be a compute volunteer**](https://alaskanews.com/worker/apply)
 
 ### Support journalists with credits
 
 Reader credits flow directly to the journalists whose work you value. No subscription required to read, but if you want to support local coverage, credits are how that happens.
 
-Sign up at [alaskanews.news/signup](https://alaskanews.news/signup) and click any author's photo to send credits.
+Sign up at [alaskanews.com/signup](https://alaskanews.com/signup) and click any author's photo to send credits.
 
 ### Bring News Community to your community
 
@@ -64,7 +64,7 @@ This is the public-facing repo for project-level feedback. All bug reports, feat
 ## Following the project
 
 - **[communities.news](https://communities.news)** — the platform behind the newsrooms
-- **[alaskanews.news](https://alaskanews.news)** — the first newsroom, live today
+- **[alaskanews.com](https://alaskanews.com)** — the first newsroom, live today
 - **[About the project](https://communities.news/about)** — vision, principles, who we are
 - **[How it works](https://communities.news/how-it-works)** — what happens between a meeting and an article
 
@@ -76,8 +76,8 @@ In the meantime, this repo is the public-facing surface: stars, issues, feature 
 
 ## Contact
 
-- **Apply as a journalist:** [alaskanews.news/journalist](https://alaskanews.news/journalist)
-- **Apply as a compute volunteer:** [alaskanews.news/worker/apply](https://alaskanews.news/worker/apply)
+- **Apply as a journalist:** [alaskanews.com/journalist](https://alaskanews.com/journalist)
+- **Apply as a compute volunteer:** [alaskanews.com/worker/apply](https://alaskanews.com/worker/apply)
 - **General contact:** [communities.news/contact](https://communities.news/contact)
 
 Community News LLC, built by [Geeks in the Woods](https://geeksinthewoods.com) in Anchorage, Alaska.
