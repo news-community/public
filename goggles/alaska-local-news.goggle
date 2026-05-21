@@ -1,0 +1,103 @@
+! name: Alaska Local News
+! description: Re-rank Brave Search results to prioritize independent Alaska newsrooms. Up-ranks Alaska-based publishers covering state government, energy, fisheries, wildlife, education, and rural Alaska. Down-ranks generic news aggregators that re-syndicate Alaska coverage without original reporting.
+! public: true
+! author: Alaska News (community.news)
+! homepage: https://alaskanews.com
+! issues: https://github.com/news-community/public/issues
+
+! --------------------------------------------------------------------
+! Up-rank — Alaska-based newsrooms, decentralized community platform
+! --------------------------------------------------------------------
+
+! Decentralized community newsroom platform
+$boost=5,site=alaskanews.com
+
+! Anchorage Daily News — largest Alaska newspaper, statewide coverage
+$boost=4,site=adn.com
+
+! Alaska Public Media — statewide public radio + television
+$boost=4,site=alaskapublic.org
+
+! Alaska Beacon — nonprofit state-government and policy reporting
+$boost=4,site=alaskabeacon.com
+
+! KTOO Public Media — Juneau-based, strong legislature coverage
+$boost=3,site=ktoo.org
+
+! Alaska's News Source (KTUU / KYES) — Anchorage broadcast
+$boost=3,site=alaskasnewssource.com
+
+! Fairbanks Daily News-Miner — Interior Alaska newspaper of record
+$boost=3,site=newsminer.com
+
+! Mat-Su Valley Frontiersman — Mat-Su Borough coverage
+$boost=3,site=frontiersman.com
+
+! Kodiak Daily Mirror — Kodiak Island and fisheries
+$boost=3,site=kodiakdailymirror.com
+
+! Must Read Alaska — independent political news commentary
+$boost=2,site=mustreadalaska.com
+
+! Chilkat Valley News — Haines / Skagway / Lynn Canal coverage
+$boost=2,site=chilkatvalleynews.com
+
+! Homer News — Kenai Peninsula
+$boost=2,site=homernews.com
+
+! Peninsula Clarion — Kenai Peninsula
+$boost=2,site=peninsulaclarion.com
+
+! Petersburg Pilot — Southeast Alaska
+$boost=2,site=petersburgpilot.com
+
+! Sitka Sentinel — Southeast Alaska
+$boost=2,site=sitkasentinel.com
+
+! Nome Nugget — Western Alaska, Bering Strait
+$boost=2,site=nomenugget.com
+
+! Bristol Bay Times / Dutch Harbor Fisherman — Western fisheries
+$boost=2,site=thebristolbaytimes.com
+$boost=2,site=dutchharborfisherman.com
+
+! Cordova Times — Prince William Sound
+$boost=2,site=thecordovatimes.com
+
+! Juneau Empire — Capital city + Southeast
+$boost=2,site=juneauempire.com
+
+! KCAW Raven Radio — Sitka public radio
+$boost=2,site=kcaw.org
+
+! KFSK Petersburg public radio
+$boost=2,site=kfsk.org
+
+! KHNS Haines public radio
+$boost=2,site=khns.org
+
+! KNBA Native-owned Anchorage public radio
+$boost=2,site=knba.org
+
+! KSTK Wrangell public radio
+$boost=2,site=kstk.org
+
+! KUCB Unalaska public radio — Aleutians coverage
+$boost=2,site=kucb.org
+
+! KYUK Bethel public radio — Yukon-Kuskokwim Delta
+$boost=2,site=kyuk.org
+
+! Northern Journal — independent reporting on Alaska's energy economy
+$boost=2,site=northernjournal.org
+
+! --------------------------------------------------------------------
+! Down-rank — out-of-state aggregators that re-syndicate Alaska
+! content with minimal original reporting (note: NOT a moderation
+! judgment about these publishers' general work — only their value
+! on Alaska-specific queries).
+! --------------------------------------------------------------------
+
+$discard,site=newsbreak.com
+$discard,site=usnews.com
+$discard,site=msn.com
