@@ -1,4 +1,4 @@
-# News Community
+# Communities News
 
 **A platform for community newsrooms in places legacy media left behind.**
 
@@ -6,15 +6,15 @@
 
 The first newsroom is live at **[alaskanews.com](https://alaskanews.com)**. The platform behind it, and the parent surface for newsrooms in the places legacy media has abandoned, is **[communities.news](https://communities.news)**.
 
-Humans and AI agents alike welcome. This repo is the public-facing surface for the project: stars, general issues and feature requests land here. Open-source pieces live in their own repositories (see [Open source](#open-source) below).
+Humans and AI agents alike welcome. This repo is the public-facing surface for Communities News: stars, general issues and feature requests land here. Open-source pieces live in their own repositories (see [Open source](#open-source) below).
 
-If you support what we're building, [give the repo a star](https://github.com/news-community/public/stargazers). It's the simplest signal that this kind of journalism matters.
+If you support what we're building, [give the repo a star](https://github.com/news-community/public). It's the simplest signal that this kind of journalism matters.
 
-## What is News Community
+## What is Communities News
 
 Across the United States, hundreds of counties have no local news source at all, and more than a thousand have only one ([State of Local News, Medill](https://localnewsinitiative.northwestern.edu/projects/state-of-local-news/)). Public meetings happen, decisions get made, and nobody covers them because nobody can afford to. The legacy media cost structure does not work at the grain of a borough assembly meeting in Cordova or a school board hearing in Nome.
 
-News Community is a different cost structure. AI does the structural work that used to need a reporter at every meeting: transcribing audio, surfacing what changed, drafting against the public record. A small editorial team, supplemented by community contributors, does the judgment work. The result is more coverage of more meetings, at a cost that actually closes for towns that legacy media abandoned.
+Communities News is a different cost structure. AI does the structural work that used to need a reporter at every meeting: transcribing audio, surfacing what changed, drafting against the public record. A small editorial team, supplemented by community contributors, does the judgment work. The result is more coverage of more meetings, at a cost that actually closes for towns that legacy media abandoned.
 
 Live in Alaska today. Designed to expand to any community that wants it.
 
@@ -27,13 +27,19 @@ Live in Alaska today. Designed to expand to any community that wants it.
 
 [More about the project →](https://communities.news/about)
 
+## What we run
+
+- **[Alaska News](https://alaskanews.com)**: the first newsroom on the platform, covering Alaska's public meetings, courts and agencies from the public record.
+- **[Voting Monitor](https://votingmonitor.org)**: tracks what consumer AI products tell voters when they ask about candidates and elections, and publishes the findings and the data openly. Its [methodology](https://votingmonitor.org/audit/) explains how.
+- **[Alaska Media Bias Scorecard](https://communities.news/communities/alaska-news/neutrality)**: Alaska News measured in public, so readers can check its neutrality rather than take it on trust.
+
 ## How to participate
 
 **Read the news for free at [alaskanews.com](https://alaskanews.com).** No paywall, no signup required to read, ever. If you want to follow specific topics, locations, or speakers, [create a free account](https://alaskanews.com/signup).
 
 ### Become a citizen journalist
 
-If you know your community and want to cover the meetings, decisions, and stories that matter, write for News Community. You work from AI-generated transcripts and drafts, get peer reviewed by your community, and earn credits when readers value your work.
+If you know your community and want to cover the meetings, decisions, and stories that matter, write for Communities News. You work from AI-generated transcripts and drafts, get peer reviewed by your community, and earn credits when readers value your work.
 
 [**Become a journalist**](https://alaskanews.com/journalist)
 
@@ -49,7 +55,7 @@ Reader credits flow directly to the journalists whose work you value. No subscri
 
 Sign up at [alaskanews.com/signup](https://alaskanews.com/signup) and click any author's photo to send credits.
 
-### Bring News Community to your community
+### Bring Communities News to your community
 
 If you live somewhere legacy media has abandoned and you want a newsroom there too, that's the long-term direction of the project. Alaska is the first; others can follow.
 
@@ -64,7 +70,8 @@ This is the public-facing repo for project-level feedback. Bug reports, feature 
 ## Following the project
 
 - **[communities.news](https://communities.news)**: the platform behind the newsrooms
-- **[alaskanews.com](https://alaskanews.com)**: the first newsroom, live today
+- **[alaskanews.com](https://alaskanews.com)**: the first newsroom
+- **[votingmonitor.org](https://votingmonitor.org)**: what AI tells voters
 - **[About the project](https://communities.news/about)**: vision, principles, who we are
 - **[How it works](https://communities.news/how-it-works)**: what happens between a meeting and an article
 
@@ -73,7 +80,7 @@ This is the public-facing repo for project-level feedback. Bug reports, feature 
 The platform itself is closed-source. Pieces we open-source live in their own repositories in the [news-community organization](https://github.com/orgs/news-community/repositories?type=public), each with its own license, issues, and contribution guide. They include:
 
 - **[Bearing Diligence](https://github.com/news-community/bearing-diligence-oss)**: private research over public meeting records, run on your own computer.
-- **[news-skills](https://github.com/news-community/news-skills)**: a read-only agent skill for searching a newsroom's articles, sources, meeting transcripts, and events through the platform's public API.
+- **[news-skills](https://github.com/news-community/news-skills)**: a read-only agent skill for searching a newsroom's articles, meeting transcripts, events and people through the platform's public API. Also published on [ClawHub](https://clawhub.ai/alaskanews), and documented at [communities.news/skills](https://communities.news/skills).
 
 ## Contact
 
@@ -81,7 +88,7 @@ The platform itself is closed-source. Pieces we open-source live in their own re
 - **Apply as a compute volunteer:** [alaskanews.com/worker/apply](https://alaskanews.com/worker/apply)
 - **General contact:** [communities.news/contact](https://communities.news/contact)
 
-Communities News, built by [Geeks in the Woods](https://geeksinthewoods.com) in Anchorage, Alaska.
+Communities News, Inc. is an Alaska corporation. The platform is built by [Geeks in the Woods](https://geeksinthewoods.com) in Anchorage, Alaska.
 
 ## License
 
