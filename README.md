@@ -39,7 +39,7 @@ Live in Alaska today. Designed to expand to any community that wants it.
 
 ### Become a citizen journalist
 
-If you know your community and want to cover the meetings, decisions, and stories that matter, write for Communities News. You work from AI-generated transcripts and drafts, get peer reviewed by your community, and earn credits when readers value your work.
+If you know your community and want to cover the meetings, decisions, and stories that matter, write for Communities News. You work from AI-generated transcripts and drafts, get peer reviewed by your community, and receive readers' tips on the stories you write.
 
 [**Become a journalist**](https://alaskanews.com/journalist)
 
@@ -49,11 +49,11 @@ The platform processes audio and video from public meetings on volunteer compute
 
 [**Apply to be a compute volunteer**](https://alaskanews.com/worker/apply)
 
-### Support journalists with credits
+### Tip the people who made a story
 
-Reader credits flow directly to the journalists whose work you value. No subscription required to read, but if you want to support local coverage, credits are how that happens.
+Every story on [alaskanews.com](https://alaskanews.com) has a Tip button. You don't need an account. 80% of a tip goes to the people named on the story, its authors and the editors who worked on it, and the rest supports the newsroom and pays the card fee.
 
-Sign up at [alaskanews.com/signup](https://alaskanews.com/signup) and click any author's photo to send credits.
+To support the newsroom every month, [subscribe](https://alaskanews.com/subscribe).
 
 ### Bring Communities News to your community
 
