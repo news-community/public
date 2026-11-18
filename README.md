@@ -1,5 +1,7 @@
 # Communities News
 
+[![alaskanews.com uptime report](https://sitesinthewoods.com/badge/alaskanews-com.svg)](https://sitesinthewoods.com/status/alaskanews-com)
+
 **A platform for community newsrooms in places legacy media left behind.**
 
 *Honest. Local. Now.*
